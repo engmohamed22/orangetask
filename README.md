@@ -1,5 +1,5 @@
-# orangetask Android mobile app consumes the News 
-API - https://newsapi.org/ . App Home screen displays the latest news
+# orangetask Android mobile app 
+consumes the News API - https://newsapi.org/ . App Home screen displays the latest news
 -mobile app that can display the latest news from various news sources (NDTV, CNN, Times, BBC, etc.) in one single place. The app should also be able to display the details of the news article.
 Features -
 Users can search for breaking news
