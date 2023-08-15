@@ -15,8 +15,7 @@ Solid priciple
 Room - Access your app's SQLite database with in-app objects and compile-time checks.
 Design Pattren
 Network - Retrofit & Coroutines
-Unit Test - KoTest
-Kotest file added - com.robo.news.MyKoTestClass Junit + Mock test Added - com.robo.news.viewmodel.home.HomeViewModelTest Junit + Koin DI fale mocking test added - com.robo.news.viewmodel.home.HomeViewModelTest
+Unit Test - KoTest-miockto test
 Note - Bookmark function & List Ui is not done. Review team can check app build through apk folder & shreenshot folder
 Architecture
 The following diagram shows all the modules and how each module interact with one another after. This architecture using a layered software architecture. 
